@@ -16,8 +16,11 @@ int main(void)
 	while (a <= '9')
 	{
 		putchar(a);
-		putchar(b);
-		putchar(c);
+		if (a != '9')
+		{
+			putchar(b);
+			putchar(c);
+		}
 		a++;
 	}
 	putchar('\n');
