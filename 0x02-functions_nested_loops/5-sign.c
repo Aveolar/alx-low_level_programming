@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * print_sign - write a function that check for alphabetic character
+ * print_sign - write a function that prints the sign of a number.
  *
- * @n: parameter for the _isalpha function
+ * @n: parameter for the print_sign function
  * Return: Always 0 (Success)
  */
 int print_sign(int n)
