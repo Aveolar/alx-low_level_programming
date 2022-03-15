@@ -13,6 +13,7 @@ int main(void)
 	{
 		_putchar(low);
 	}
+	_putchar('\n');
 
 	return (0);
 }
