@@ -2,7 +2,7 @@
 
 /**
  * _strlen - find string length
- * @str: string
+ * @str: string linked
  * Return: length
  */
 int _strlen(const char *str)
